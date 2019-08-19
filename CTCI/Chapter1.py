@@ -106,4 +106,16 @@ def one_away(s1, s2):
 
 
 # Q6: String Compression
+# s, the string only has uppercase and lowercase alphabetic charachters (from question)
+def string_comrpression(s):
+
+	i, counter, = 0
+	j = 1
+	newstring = []
+	while i < len(s):
+
+
+
+
+
 
